@@ -1,12 +1,10 @@
 <p align="center">
-  <a href="https://twitter.com/alessiosavi">
-    <img src="https://img.shields.io/twitter/follow/alessiosavi?style=for-the-badge&label=%40alessiosavi&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">
-  </a>
-  <a href="https://www.linkedin.com/in/simonemargaritelli/">
+ 
+  <a href="https://www.linkedin.com/in/alessio-savi-2136b2188/">
     <img src="https://img.shields.io/badge/-alessiosavi-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
   </a>
   <a href="mailto:alessiosavibtc@gmail.com">
-    <img src="https://img.shields.io/badge/alessiosavi@gmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
+    <img src="https://img.shields.io/badge/alessiosavibtc@gmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
   </a>
 </p>
 
